@@ -9,7 +9,7 @@ function Login({ setUser }) {
     function doLogin(e) {
         e.preventDefault();
 
-        if (email !== "joel@example.org") {
+        if (email !== "Lars@Elberskirch.net") {
             alert("Invalid email");
             return;
         }
